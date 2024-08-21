@@ -1,1 +1,2 @@
-canal:canal-server:1.13.0
+nacos
+seata
