@@ -1,1 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.17.23
+minio/minio
+apache/rocketmq:5.3.0
