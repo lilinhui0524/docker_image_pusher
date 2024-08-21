@@ -1,2 +1,1 @@
- nacos/nacos-server
-seataio/seata-server
+docker.elastic.co/elasticsearch/elasticsearch:7.17.23
