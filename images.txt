@@ -1,1 +1,2 @@
-nacos:2.4.0
+seata
+nacos:latest
