@@ -1,1 +1,10 @@
-rabbitmq
+mysql
+kafka
+rocketmq
+openjdk17
+ubuntu
+minio
+nacos
+seata
+canal
+elasticsearch
