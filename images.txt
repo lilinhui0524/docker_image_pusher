@@ -1,1 +1,1 @@
-openjdk17
+openjdk:17.0.11
