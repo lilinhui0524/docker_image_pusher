@@ -1,3 +1,1 @@
-rocketmq:latest
-kafka:latest
-rabbitmq:latest
+rocketmq:5.3.2
