@@ -1,1 +1,1 @@
-redis:latest
+docker pull mysql:latest
