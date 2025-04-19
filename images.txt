@@ -1,1 +1,3 @@
-docker pull mysql:latest
+redis:latest
+rocketmq:latest
+kafka:latest
